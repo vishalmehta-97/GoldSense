@@ -17,10 +17,10 @@ The project is deployed as a fully interactive **Streamlit web dashboard** with 
 
 ## 👨‍💻 Developers
 
-| Name | UID | Role |
-|---|---|---|
-| Vishal Mehta | 25MCD10055 | ML Model · FinBERT Integration · Dashboard UI |
-| Karan Singh | 25MCD10020 | Data Pipeline · Feature Engineering · Deployment |
+| Name |
+|---|
+| Vishal Mehta |
+| Karan Singh |
 
 **Programme:** MCA Data Science
 **Institution:** Chandigarh University
