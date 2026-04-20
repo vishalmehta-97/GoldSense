@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+requests
+yfinance
+joblib
+tensorflow-cpu
+torch
+transformers
+scikit-learn
+=======
+altair
+pandas
+streamlit
+>>>>>>> f8797673035db62e2d5f24f43efb94fc15349ebb
